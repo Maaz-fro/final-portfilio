@@ -1,7 +1,7 @@
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
-// import About from "./components/About";
-// import Skills from "./components/Skills";
+import About from "./components/About";
+import Skills from "./components/Skills";
 // import Education from "./components/Education";
 // import Certifications from "./components/Certifications";
 // import Projects from "./components/Projects";
@@ -21,13 +21,13 @@ function App() {
      <div id="home">
       <Hero />
     </div>
-     {/* <div id="about">
+     <div id="about">
       <About />
     </div>
      <div id="skills">
       <Skills />
     </div>
-    <div id="experience">
+    {/* <div id="experience">
       <Experience />
     </div>
     <div id="education">
