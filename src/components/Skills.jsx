@@ -6,51 +6,51 @@ import "swiper/css/pagination";
 //export default function Skills(){
 import htmlImg from "../assets/skills/html.png";
 import cssImg from "../assets/skills/css.png";
-import bootstrapImg from "../assets/skills/bootstrap.png";
-import tailwindImg from "../assets/skills/tailwind.png";
-import gitImg from "../assets/skills/git.png";
-import figmaImg from "../assets/skills/figma.png";
-import photoshopImg from "../assets/skills/photoshop.png";
-import reactjsImg from "../assets/skills/reactjs.png";
-import angularImg from "../assets/skills/angularjs.png";
-import phpImg from "../assets/skills/php.png";
-import laravelImg from "../assets/skills/laravel.png";
-import canvaImg from "../assets/skills/canva.png";
-import indesignImg from "../assets/skills/indesign.png";
-import mysqlImg from "../assets/skills/mysql.png";
-import wordImg from "../assets/skills/word.png";
-import jsImg from "../assets/skills/js.png";
-import excelImg from "../assets/skills/excel.png";
-import wordpressImg from "../assets/skills/wordpress.png";
+import bootstrapImg from "../assets/skills/bootstrap.PNG";
+import tailwindImg from "../assets/skills/tailwind.PNG";
+import gitImg from "../assets/skills/git.PNG";
+import figmaImg from "../assets/skills/figma.PNG";
+import photoshopImg from "../assets/skills/photoshop.PNG";
+import reactjsImg from "../assets/skills/reactjs.PNG";
+import angularImg from "../assets/skills/angularjs.PNG";
+import phpImg from "../assets/skills/php.PNG";
+import laravelImg from "../assets/skills/laravel.PNG";
+import canvaImg from "../assets/skills/canva.PNG";
+import indesignImg from "../assets/skills/indesign.PNG";
+import mysqlImg from "../assets/skills/mysql.PNG";
+import wordImg from "../assets/skills/word.PNG";
+import jsImg from "../assets/skills/js.PNG";
+import excelImg from "../assets/skills/excel.PNG";
+import wordpressImg from "../assets/skills/wordpress.PNG";
 import vuejsImg from "../assets/skills/vuejs.png";
-import opencartImg from "../assets/skills/opencart.png";
-import illustrationImg from "../assets/skills/illustration.png";
-import pptImg from "../assets/skills/ppt.png";
+import opencartImg from "../assets/skills/opencart.PNG";
+import illustrationImg from "../assets/skills/illustration.PNG";
+import pptImg from "../assets/skills/ppt.PNG";
  
 // Skills data
 // const skills = [
-//   { name: "html", img: "public/skills/html.png" },
-//   { name: "CSS", img: "public/skills/css.png" },
-//   { name: "BOOTSTRAP", img: "public/skills/bootstrap.png" },
-//   { name: "TAILWIND", img: "public/skills/tailwind.png" },
-//   { name: "GIT", img: "public/skills/git.png" },
-//   { name: "FIGMA", img: "public/skills/figma.png" },
-//   { name: "ADOBE PHOTOSHOP", img: "public/skills/photoshop.png" },
-//   { name: "REACTJS", img: "public/skills/reactjs.png" },
-//   { name: "ANGULAR", img: "public/skills/angularjs.png" },
-//   { name: "PHP", img: "public/skills/php.png" },
-//   { name: "LARAVEL", img: "public/skills/laravel.png" },
-//   { name: "CANVA", img: "public/skills/canva.png" },
-//   { name: "ADOBE INDESIGN", img: "public/skills/indesign.png" },
-//   { name: "MYSQL", img: "public/skills/mysql.png" },
-//   { name: "WORD", img: "public/skills/word.png" },
-//   { name: "JAVASCRIPT", img: "public/skills/js.png" },
-//   { name: "EXCEL", img: "public/skills/excel.png" },
-//   { name: "WORDPRESS", img: "public/skills/wordpress.png" },
-//   { name: "VUE JS", img: "public/skills/vuejs.png" },
-//   { name: "OPENCART", img: "public/skills/opencart.png" },
-//   { name: "ADOBE ILLUSTRATION", img: "public/skills/illustration.png" },
-//   { name: "POWER POINT", img: "public/skills/ppt.png" },
+//   { name: "html", img: "public/skills/html.PNG" },
+//   { name: "CSS", img: "public/skills/css.PNG" },
+//   { name: "BOOTSTRAP", img: "public/skills/bootstrap.PNG" },
+//   { name: "TAILWIND", img: "public/skills/tailwind.PNG" },
+//   { name: "GIT", img: "public/skills/git.PNG" },
+//   { name: "FIGMA", img: "public/skills/figma.PNG" },
+//   { name: "ADOBE PHOTOSHOP", img: "public/skills/photoshop.PNG" },
+//   { name: "REACTJS", img: "public/skills/reactjs.PNG" },
+//   { name: "ANGULAR", img: "public/skills/angularjs.PNG" },
+//   { name: "PHP", img: "public/skills/php.PNG" },
+//   { name: "LARAVEL", img: "public/skills/laravel.PNG" },
+//   { name: "CANVA", img: "public/skills/canva.PNG" },
+//   { name: "ADOBE INDESIGN", img: "public/skills/indesign.PNG" },
+//   { name: "MYSQL", img: "public/skills/mysql.PNG" },
+//   { name: "WORD", img: "public/skills/word.PNG" },
+//   { name: "JAVASCRIPT", img: "public/skills/js.PNG" },
+//   { name: "EXCEL", img: "public/skills/excel.PNG" },
+//   { name: "WORDPRESS", img: "public/skills/wordpress.PNG" },
+//   { name: "VUE JS", img: "public/skills/vuejs.PNG" },
+//   { name: "OPENCART", img: "public/skills/opencart.PNG" },
+//   { name: "ADOBE ILLUSTRATION", img: "public/skills/illustration.PNG" },
+//   { name: "POWER POINT", img: "public/skills/ppt.PNG" },
   
 
 
