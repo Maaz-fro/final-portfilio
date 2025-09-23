@@ -1,4 +1,4 @@
-// import Hero from "./components/Hero";
+import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 // import About from "./components/About";
 // import Skills from "./components/Skills";
@@ -18,10 +18,10 @@ function App() {
   return (
     <>
     <Navbar/>
-    {/* <div id="home">
+     <div id="home">
       <Hero />
     </div>
-     <div id="about">
+     {/* <div id="about">
       <About />
     </div>
      <div id="skills">
@@ -43,7 +43,7 @@ function App() {
       
 
       
-      {/* <Experience /> */}
+    
     </>
   );
 }
