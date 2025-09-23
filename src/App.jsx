@@ -3,8 +3,8 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Education from "./components/Education";
-// import Certifications from "./components/Certifications";
-// import Projects from "./components/Projects";
+import Certifications from "./components/Certifications";
+import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 
 
@@ -33,12 +33,12 @@ function App() {
     <div id="education">
       <Education />
     </div>
-    {/* <div id="certifications">
+    <div id="certifications">
       <Certifications />
     </div>
      <div id="projects">
       <Projects />
-    </div> */}
+    </div>
      
       
 
