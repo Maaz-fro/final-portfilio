@@ -26,6 +26,7 @@ import vuejsImg from "../assets/skills/vuejs.png";
 import opencartImg from "../assets/skills/opencart.PNG";
 import illustrationImg from "../assets/skills/illustration.PNG";
 import pptImg from "../assets/skills/ppt.PNG";
+import tsImg from "../assets/skills/ts.PNG";
  
 // Skills data
 // const skills = [
@@ -86,6 +87,8 @@ const skills = [
   { name: "OPENCART", img: opencartImg },
   { name: "ADOBE ILLUSTRATION", img: illustrationImg },
   { name: "POWER POINT", img: pptImg },
+  { name: "TYPESCRIPT", img: tsImg },
+
 ];
 
 
