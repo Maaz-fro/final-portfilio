@@ -20,10 +20,9 @@ export default function About() {
             About Me
           </h2>
           <p className="text-yellow-600 leading-relaxed">
-            Creative and detail-oriented Frontend Developer with hands-on
-            experience in building responsive websites using WordPress,
-            HTML/CSS, JavaScript, Design and modern frameworks. Passionate
-            about clean UI, accessibility, and user-centered design.
+            Front-end developer skilled in Reactjs, Angular, Vue, Figma with experience building responsive web apps and deploying to cloudflare. Using developer with hands-on experience in building responsive websites using WordPress, HTML/CSS, JavaScript,Typescript, Design and modern frameworks. Passionate about clean UI, accessibility, and user-centered design. 
+            
+            Skilled in technical and soft like version control , integrating data , eesponsive design , cross-browser Testing and Deployment , Problem Solving, Teamwork and Creativity.
 
           </p>
         </div>
