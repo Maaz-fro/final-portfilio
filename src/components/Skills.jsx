@@ -4,29 +4,34 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 //export default function Skills(){
-import htmlImg from "../assets/skills/html.png";
-import cssImg from "../assets/skills/css.png";
+// import htmlImg from "../assets/skills/html.png";
+// import cssImg from "../assets/skills/css.png";
 import bootstrapImg from "../assets/skills/bootstrap.PNG";
 import tailwindImg from "../assets/skills/tailwind.PNG";
+import jsImg from "../assets/skills/js.PNG";
 import gitImg from "../assets/skills/git.PNG";
 import figmaImg from "../assets/skills/figma.PNG";
 import photoshopImg from "../assets/skills/photoshop.PNG";
 import reactjsImg from "../assets/skills/reactjs.PNG";
 import angularImg from "../assets/skills/angularjs.PNG";
-import phpImg from "../assets/skills/php.PNG";
-import laravelImg from "../assets/skills/laravel.PNG";
+
+
+
 import canvaImg from "../assets/skills/canva.PNG";
+import tsImg from "../assets/skills/ts.PNG";
 import indesignImg from "../assets/skills/indesign.PNG";
+import phpImg from "../assets/skills/php.PNG";
 import mysqlImg from "../assets/skills/mysql.PNG";
-import wordImg from "../assets/skills/word.PNG";
-import jsImg from "../assets/skills/js.PNG";
+// import wordImg from "../assets/skills/word.PNG";
+
 import excelImg from "../assets/skills/excel.PNG";
 import wordpressImg from "../assets/skills/wordpress.PNG";
 import vuejsImg from "../assets/skills/vuejs.png";
 import opencartImg from "../assets/skills/opencart.PNG";
 import illustrationImg from "../assets/skills/illustration.PNG";
-import pptImg from "../assets/skills/ppt.PNG";
-import tsImg from "../assets/skills/ts.PNG";
+// import pptImg from "../assets/skills/ppt.PNG";
+
+import laravelImg from "../assets/skills/laravel.PNG";
  
 // Skills data
 // const skills = [
@@ -65,29 +70,32 @@ import tsImg from "../assets/skills/ts.PNG";
 // ];
 
 const skills = [
-  { name: "HTML", img: htmlImg },
-  { name: "CSS", img: cssImg },
+  // { name: "HTML", img: htmlImg },
+  // { name: "CSS", img: cssImg },
   { name: "BOOTSTRAP", img: bootstrapImg },
   { name: "TAILWIND", img: tailwindImg },
+   { name: "JAVASCRIPT", img: jsImg },
   { name: "GIT", img: gitImg },
   { name: "FIGMA", img: figmaImg },
+  { name: "TYPESCRIPT", img: tsImg },
   { name: "ADOBE PHOTOSHOP", img: photoshopImg },
   { name: "REACTJS", img: reactjsImg },
   { name: "ANGULAR", img: angularImg },
   { name: "PHP", img: phpImg },
-  { name: "LARAVEL", img: laravelImg },
+ 
   { name: "CANVA", img: canvaImg },
+   { name: "LARAVEL", img: laravelImg },
   { name: "ADOBE INDESIGN", img: indesignImg },
   { name: "MYSQL", img: mysqlImg },
-  { name: "WORD", img: wordImg },
-  { name: "JAVASCRIPT", img: jsImg },
+  // { name: "WORD", img: wordImg },
   { name: "EXCEL", img: excelImg },
-  { name: "WORDPRESS", img: wordpressImg },
   { name: "VUE JS", img: vuejsImg },
+   { name: "ADOBE ILLUSTRATION", img: illustrationImg },
+    { name: "WORDPRESS", img: wordpressImg },
   { name: "OPENCART", img: opencartImg },
-  { name: "ADOBE ILLUSTRATION", img: illustrationImg },
-  { name: "POWER POINT", img: pptImg },
-  { name: "TYPESCRIPT", img: tsImg },
+ 
+  // { name: "POWER POINT", img: pptImg },
+  
 
 ];
 
