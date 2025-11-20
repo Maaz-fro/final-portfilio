@@ -62,7 +62,7 @@ export default function Hero() {
 
           {/* CV */}
                 <a
-            href="/cv_25_2.pdf"
+            href="/cv_2025.pdf"
             target="_blank"
             // rel="noopener noreferrer"
           >
