@@ -24,14 +24,15 @@ function App() {
      <div id="about">
       <About />
     </div>
-     <div id="skills">
-      <Skills />
-    </div>
+    
     <div id="experience">
       <Experience />
     </div>
     <div id="education">
       <Education />
+    </div>
+     <div id="skills">
+      <Skills />
     </div>
     <div id="certifications">
       <Certifications />

@@ -15,9 +15,11 @@ export default function Navbar() {
         {/* Desktop Menu */}
         <div className="hidden md:flex gap-8 text-white font-bold">
           <a href="#about" className="hover:text-yellow-600">About</a>
-          <a href="#skills" className="hover:text-yellow-600">Skills</a>
           <a href="#experience" className="hover:text-yellow-600">Experience</a>
+         
+          
           <a href="#education" className="hover:text-yellow-600">Education</a>
+           <a href="#skills" className="hover:text-yellow-600">Skills</a>
           <a href="#certifications" className="hover:text-yellow-600">Certifications</a>
           <a href="#projects" className="hover:text-yellow-600">Projects</a>
         </div>
