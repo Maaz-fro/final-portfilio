@@ -7,12 +7,12 @@ export default function Experience() {
     },
     {
       company: "Cloudapps",
-      role: "Website Design and UI / UX",
+      role: "Frontend Developer and UI/UX",
       duration: "Sep/2024 - Aug/2025",
     },
     {
       company: "Freelancer",
-      role: "Software and Developer",
+      role: "Software (UI/UX Design)",
       duration: "Jul/2023 - Aug/2024",
     },
   ];
@@ -22,7 +22,7 @@ export default function Experience() {
       <h2 className="text-3xl font-bold text-center mb-8">Work Experience</h2>
 
       
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-3xl  mx-auto">
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-10 max-w-3xl  mx-auto">
         {experiences.map((exp, index) => (
           <div
             key={index}
