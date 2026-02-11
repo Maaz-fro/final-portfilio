@@ -15,12 +15,15 @@ import photoshopImg from "../assets/skills/photoshop.PNG";
 import reactjsImg from "../assets/skills/reactjs.PNG";
 import angularImg from "../assets/skills/angularjs.PNG";
 
+import python1 from "../assets/skills/python.PNG";
 
 
 import canvaImg from "../assets/skills/canva.PNG";
 import tsImg from "../assets/skills/ts.PNG";
 import indesignImg from "../assets/skills/indesign.PNG";
-import phpImg from "../assets/skills/php.PNG";
+import powerbi from "../assets/skills/powerbi.PNG";
+import mongo from "../assets/skills/mongodb.PNG";
+
 import mysqlImg from "../assets/skills/mysql.PNG";
 // import wordImg from "../assets/skills/word.PNG";
 
@@ -31,7 +34,7 @@ import opencartImg from "../assets/skills/opencart.PNG";
 import illustrationImg from "../assets/skills/illustration.PNG";
 // import pptImg from "../assets/skills/ppt.PNG";
 
-import laravelImg from "../assets/skills/laravel.PNG";
+import sqlserver from "../assets/skills/sqlserver.PNG";
  
 // Skills data
 // const skills = [
@@ -81,18 +84,22 @@ const skills = [
   { name: "ADOBE PHOTOSHOP", img: photoshopImg },
   { name: "REACTJS", img: reactjsImg },
   { name: "ANGULAR", img: angularImg },
-  { name: "PHP", img: phpImg },
+  
  
   { name: "CANVA", img: canvaImg },
-   { name: "LARAVEL", img: laravelImg },
+   { name: "SQL SERVER", img: sqlserver},
   { name: "ADOBE INDESIGN", img: indesignImg },
   { name: "MYSQL", img: mysqlImg },
-  // { name: "WORD", img: wordImg },
+  { name: "MONGODB", img: mongo },
+  { name: "PYTHON", img: python1 },
   { name: "EXCEL", img: excelImg },
   { name: "VUE JS", img: vuejsImg },
    { name: "ADOBE ILLUSTRATION", img: illustrationImg },
+    { name: "POWERBI", img: powerbi },
     { name: "WORDPRESS", img: wordpressImg },
   { name: "OPENCART", img: opencartImg },
+ 
+
  
   // { name: "POWER POINT", img: pptImg },
   
