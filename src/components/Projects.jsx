@@ -29,7 +29,7 @@ export default function Projects() {
         {projects.map((project, index) => (
           <div
             key={index}
-            className="bg-yellow-950 border-2 border-yellow-500 rounded-2xl p-6 shadow-lg hover:shadow-xl transition flex flex-col items-center"
+            className="bg-yellow-950 border-2 border-yellow-600 rounded-2xl p-6 shadow-lg hover:shadow-xl transition flex flex-col items-center"
           >
             <img
               src={project.img}
