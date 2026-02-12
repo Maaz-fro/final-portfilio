@@ -20,7 +20,7 @@ export default function About() {
             About Me
           </h2>
           <p className="text-yellow-600 leading-relaxed">
-            Front-end developer skilled in React.js, Angular, Vue.js, Figma with experience building responsive web apps and deploying to cloudflare. Using developer with hands-on experience in building responsive websites using WordPress, JavaScript, Typescript, Design and modern frameworks. Passionate about clean UI, accessibility, and user-centered design. 
+            Results-driven Frontend Developer specializing in modern JavaScript frameworks and responsive web development. Experienced in translating design concepts into high-performance, accessible applications and deploying them to cloud platforms. Passionate about clean UI, usability, and continuous learning. 
             
             Skilled in technical and soft like version control , integrating data , eesponsive design , cross-browser Testing and Deployment , Problem Solving, Teamwork and Creativity.
 
