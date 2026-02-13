@@ -15,7 +15,7 @@ import photoshopImg from "../assets/skills/photoshop.PNG";
 import reactjsImg from "../assets/skills/reactjs.PNG";
 import angularImg from "../assets/skills/angularjs.PNG";
 
-//import python1 from "../assets/skills/python.png";
+import pythonimg from "../assets/skills/python.png";
 
 
 import canvaImg from "../assets/skills/canva.PNG";
@@ -91,7 +91,7 @@ const skills = [
   { name: "ADOBE INDESIGN", img: indesignImg },
   { name: "MYSQL", img: mysqlImg },
   { name: "MONGODB", img: mongo },
-  //{ name: "PYTHON", img: python1 },
+  { name: "PYTHON", img: pythonimg },
   { name: "EXCEL", img: excelImg },
   { name: "VUE JS", img: vuejsImg },
    { name: "ADOBE ILLUSTRATION", img: illustrationImg },
